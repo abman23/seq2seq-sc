@@ -5,7 +5,7 @@
 ```bash
 @misc{lee2022seq2seqSC,
     author = {Lee, Ju-Hyung and Lee, Dong-Ho and Sheen, Eunsoo and Choi, Thomas and Pujara, Jay and Kim, Joongheon},
-    title = {{Seq2Seq-SC}: End-to-End Semantic Communication Systems with Pre-trained Language Model},
+    title = {Seq2Seq-SC: End-to-End Semantic Communication Systems with Pre-trained Language Model},
     journal={arXiv preprint arXiv:2210.15237},
     year = {2022},
 }
