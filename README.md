@@ -136,4 +136,4 @@ python eval.py \
 
 ## Citation
 
-TODO:
+journal={arXiv preprint arXiv:2210.15237},
