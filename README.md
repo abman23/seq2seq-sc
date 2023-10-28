@@ -1,6 +1,6 @@
 # seq2seq-SC
 
-<img src="poster_seq2seq_Asilomar2023.pdf" alt="overview_PMNet" width="800" style="float:center" />
+<img src="poster_seq2seq_Asilomar2023.pdf" alt="poster_seq2seq_Asilomar2023" width="800" style="float:center" />
 
 ## Citation
 
