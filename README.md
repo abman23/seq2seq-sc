@@ -1,6 +1,6 @@
 # seq2seq-SC
 
-<embed src="poster_seq2seq_Asilomar2023.pdf" type="application/pdf" width="100%" height=800>
+<img src="poster_seq2seq_Asilomar2023.jpg" alt="poster" style="float: left;" />
 
 ## Citation
 
