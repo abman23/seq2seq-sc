@@ -1,5 +1,7 @@
 # seq2seq-SC
 
+<img src="poster_seq2seq_Asilomar2023.pdf" alt="overview_PMNet" width="800" style="float:center" />
+
 ## Citation
 
 ```bash
